@@ -12,5 +12,4 @@ while x < 1846:
         file_out = link
         urllib.urlretrieve(pic_link, file_out)
     x = x + 1
-
 exit(1)
